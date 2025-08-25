@@ -1,5 +1,6 @@
 # EMS726-TSP
 
-- official Gurobi demo available at: https://gurobi.github.io/modeling-examples/traveling_salesman/
-
+- Gurobi License Application Guide: [guide](Gurobi License Application Guide.md)
+- Jupyter notebook: [notebook](uk_pubs_tsp_gurobi.ipynb)
 - UK Pubs dataset: https://www.math.uwaterloo.ca/tsp/pubs/
+
